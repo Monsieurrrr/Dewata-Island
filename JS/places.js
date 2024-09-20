@@ -1,7 +1,7 @@
 const carousel = document.getElementById("carousel")
 
 let index = 0;
-let images=["../All/merusaka nusa dua.jpg","../places/facilities/bed.jpg","../places/facilities/livingroom.jpg","../places/facilities/bathroom.jpg","../places/facilities/pool.jpg"]
+let images=["../All/merusaka nusa dua.jpg","../places/facilities/bed.jpg","../places/facilities/livingroom.jpg","../places/facilities/bathroomjpg.jpg","../places/facilities/pool.jpg"]
 
 function showImage(){
     carousel.src = images[index]
